@@ -1,19 +1,19 @@
-# Progress Indicator
+# Progress Bar Indicator
 In a world where users often have to wait for processes to complete, a reliable progress indicator can make all the difference in user experience. We understand that, in Business Central 14 and earlier versions, which primarily utilized the Windows client, displaying progress indicators in percentages was a standard practice. However, as technology evolves, so do the challenges.
 
 
 ## The Challenge: 🌐🕒
 In the modern landscape of Business Central, particularly in the Web Client, the native support for progress indicators in percentages is missing, leaving developers searching for solutions.
 
-> The precentage in progress bar was a standard feature:  
+> The percentage in the progress bar was a standard feature:  
  ![nav-dialog](./img/nav-dialog.png)
 
 ## The Solution: 🚀📊
 **Progress Bar Indicator** We recognized the need for a straightforward yet effective tool to simulate progress bar indicators in percentages when the native support isn't available.
 
-> The Progress Indicator:  
+> The Progress Bar Indicator:  
 <video  controls>
-  <source src="./img/bc-progressBar.mp4" type="video/mp4">
+  <source src="[./img/bc-progressBar.mp4](https://github.com/xmehdi01/al-progress-bar/blob/main/img/bc-progressBar.mp4)" type="video/mp4">
 </video>
 
 ## How It Works: 🛠️👨‍💻
