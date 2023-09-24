@@ -12,9 +12,7 @@ In the modern landscape of Business Central, particularly in the Web Client, the
 **Progress Bar Indicator** We recognized the need for a straightforward yet effective tool to simulate progress bar indicators in percentages when the native support isn't available.
 
 > The Progress Bar Indicator:  
-<video  controls>
-  <source src="[./img/bc-progressBar.mp4](https://github.com/xmehdi01/al-progress-bar/blob/main/img/bc-progressBar.mp4)" type="video/mp4">
-</video>
+ ![nav-dialog](./img/progressBarIndicator.png)
 
 ## How It Works: 🛠️👨‍💻
 Our tool simplifies the process of creating a progress bar indicator within your AL code. With a basic procedure [`GenerateProgressBar`](./src/ProgressBarIndicator.Codeunit.al) that converts values to a string format, we provide a practical way to keep your users informed about ongoing processes.
