@@ -1,0 +1,31 @@
+{
+  "id": "ffaea32f-685f-48cd-bd52-7fea00ca5e37",
+  "name": "Progress Bar Indicator",
+  "publisher": "Xmehdi01",
+  "version": "1.0.0.0",
+  "brief": "Easy-to-use progress-bar with Indicator in percentages for long running task.",
+  "description": "",
+  "privacyStatement": "",
+  "help": "https://github.com/xmehdi01/al-progress-bar",
+  "EULA": "https://github.com/xmehdi01/al-progress-bar",
+  "url": "https://github.com/xmehdi01/al-progress-bar",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 81000,
+      "to": 81900
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://github.com/xmehdi01/al-progress-bar",
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "11.0",
+  "features": ["NoImplicitWith"]
+}
